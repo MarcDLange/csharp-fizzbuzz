@@ -1,0 +1,13 @@
+D:\GitHub\MarcDLange\csharp-fizzbuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+D:\GitHub\MarcDLange\csharp-fizzbuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+D:\GitHub\MarcDLange\csharp-fizzbuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+D:\GitHub\MarcDLange\csharp-fizzbuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+D:\GitHub\MarcDLange\csharp-fizzbuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+D:\GitHub\MarcDLange\csharp-fizzbuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+D:\GitHub\MarcDLange\csharp-fizzbuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+D:\GitHub\MarcDLange\csharp-fizzbuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+D:\GitHub\MarcDLange\csharp-fizzbuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+D:\GitHub\MarcDLange\csharp-fizzbuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\GitHub\MarcDLange\csharp-fizzbuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+D:\GitHub\MarcDLange\csharp-fizzbuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+D:\GitHub\MarcDLange\csharp-fizzbuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
